@@ -17,7 +17,7 @@ export default {
 <style>
 .panel-body {
     font-family: "Arizonia", cursive;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .quote {
